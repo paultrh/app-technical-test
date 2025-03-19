@@ -31,6 +31,7 @@ When the final version is ready:
 - [https://github.com/f-combes](https://github.com/f-combes)
 - [https://github.com/romain-gauvreau](https://github.com/romain-gauvreau)
 - [https://github.com/paultrh](https://github.com/paultrh)
+- [https://github.com/Kaleb0x](https://github.com/Kaleb0x)
 
 ## Duration
 
