@@ -32,6 +32,7 @@ When the final version is ready:
 - [https://github.com/romain-gauvreau](https://github.com/romain-gauvreau)
 - [https://github.com/paultrh](https://github.com/paultrh)
 - [https://github.com/Kaleb0x](https://github.com/Kaleb0x)
+- [https://github.com/bebsworthy](https://github.com/bebsworthy)
 
 ## Duration
 
